@@ -5,7 +5,7 @@
   
   # 👋 Hi, I'm Paja!
 
-🌟 Passionate Python developer with a love for automation, web development, and data science.  
+🌟 Passionate Python developer with a love for automation.  
 💻 Currently exploring advanced Flask and Django applications.
 
 ## 🚀 Interests
@@ -28,9 +28,11 @@
 -->
 
 ## 📖 Currently Learning
-- Advanced Flask and REST API development.
+
+- Writing cleaner and more efficient Python code.
+- Exploring best practices in software development.
 - Docker and containerization for Python projects.
-- Machine Learning basics with Scikit-learn.
+
 
 ## ✨ Fun Fact
 I started coding to automate boring tasks at my last job, and now I can't stop building things!
