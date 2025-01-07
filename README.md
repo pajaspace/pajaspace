@@ -18,7 +18,7 @@
 - **Web Frameworks:** Flask, Django
 - **Data Analysis:** Pandas, NumPy, Matplotlib
 - **Version Control:** Git, GitHub
-- **Aplication Testing
+- **Aplication Testing** 
 
 <!--
 ## 📚 Projects
@@ -32,6 +32,7 @@
 - Writing cleaner and more efficient Python code.
 - Exploring best practices in software development.
 - Docker and containerization for Python projects.
+- Aplication Testing
 
 
 ## ✨ Fun Fact
