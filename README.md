@@ -44,6 +44,9 @@ I started coding to automate boring tasks at my last job, and now I can't stop b
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.0-green)
 ![Git](https://img.shields.io/badge/Git-2.30-orange)
+![Java](https://img.shields.io/badge/Java-blue)
+![Bash](https://img.shields.io/badge/Bash-green)
+
    
 
 <!--
