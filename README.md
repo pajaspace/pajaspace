@@ -14,16 +14,18 @@
 - Learning and experimenting with Machine Learning and Data Visualization.
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python, Bash, SQL
+- **Languages:** Python, Bash, SQL ,Java
 - **Web Frameworks:** Flask, Django
 - **Data Analysis:** Pandas, NumPy, Matplotlib
 - **Version Control:** Git, GitHub
 - **Aplication Testing
 
+<!--
 ## 📚 Projects
 - [To-Do App](https://github.com/YourUsername/todo-app): A simple web-based task manager built with Flask.
 - [File Organizer](https://github.com/YourUsername/file-organizer): A Python script to automate file management.
-- [Data Analysis](https://github.com/YourUsername/data-analysis): Analysis of COVID-19 data using Pandas and Matplotlib.
+- [Data Analysis](https://github.com/YourUsername/data-analysis): Analysis of COVID-19 data using Pandas and Matplotlib
+-->
 
 ## 📖 Currently Learning
 - Advanced Flask and REST API development.
